@@ -10,3 +10,5 @@ The conversion services offered by the app are:-
 3) Pdf to image (.jpg and .png - both supported) format
 
 In future it will also offer other conversion like pdf-excel(.csv) and pdf-powerpoint(.pptx).
+
+### Keep pdf.ico in the same folder as the project ###
